@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Rx.Buffer", "Sample.Rx.Buffer\Sample.Rx.Buffer.csproj", "{87D0D00C-E65E-40D6-AEFB-FE6E8CF6920F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Rx.Buffer.Api", "Sample.Rx.Buffer.Api\Sample.Rx.Buffer.Api.csproj", "{1461F782-1BB7-4A61-A1B8-53413F683991}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{87D0D00C-E65E-40D6-AEFB-FE6E8CF6920F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{87D0D00C-E65E-40D6-AEFB-FE6E8CF6920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{87D0D00C-E65E-40D6-AEFB-FE6E8CF6920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{87D0D00C-E65E-40D6-AEFB-FE6E8CF6920F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1461F782-1BB7-4A61-A1B8-53413F683991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1461F782-1BB7-4A61-A1B8-53413F683991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1461F782-1BB7-4A61-A1B8-53413F683991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1461F782-1BB7-4A61-A1B8-53413F683991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
